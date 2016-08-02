@@ -6,7 +6,12 @@ namespace Adv_Game_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing Adventure Games.... ");
+            int enterValue = 0;
+
+            Console.WriteLine("Menu... ");
+            Console.WriteLine("Enter 8 BIT ! ");
+            Console.ReadLine();
+
         }
     }
 }
